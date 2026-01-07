@@ -1,0 +1,43 @@
+Major Crops and Their Growing Conditions
+
+This document summarizes key agricultural crops, their growing seasons, climate requirements, and duration.
+
+
+Rice
+Crop Type: Kharif
+Growing Season: June to September (Monsoon)
+Climate Requirement: Warm and humid
+Temperature Range: 20–35°C
+Water Requirement: Requires standing water during most of the growing period
+
+
+Wheat
+Crop Type: Rabi
+Growing Season: October to March (Winter)
+Climate Requirement: Cool climate during growth
+Harvest Condition: Warm and dry weather
+Special Note: Sensitive to high temperatures during early growth
+
+
+Cotton
+Crop Duration: 6–8 months
+Climate Requirement: Warm climate
+Rainfall: Moderate rainfall
+Other Requirements: Plenty of sunshine throughout the growing period
+
+
+Sugarcane
+Crop Duration: 12–18 months (Long-duration crop)
+Climate Requirement: Hot and humid
+Water Requirement: Adequate and continuous water supply
+Special Note: Requires fertile soil for high yield
+
+
+Maize
+Crop Type: Grown in both Kharif and Rabi seasons
+Climate Requirement: Moderate temperature
+Soil Requirement: Well-drained and fertile soil
+Special Note: Highly adaptable crop with wide usage
+
+
+End of Document
